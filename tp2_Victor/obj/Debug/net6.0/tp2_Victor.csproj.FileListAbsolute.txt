@@ -1,0 +1,15 @@
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\bin\Debug\net6.0\tp2_Victor.exe
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\bin\Debug\net6.0\tp2_Victor.deps.json
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\bin\Debug\net6.0\tp2_Victor.runtimeconfig.json
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\bin\Debug\net6.0\tp2_Victor.dll
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\bin\Debug\net6.0\tp2_Victor.pdb
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\tp2_Victor.csproj.AssemblyReference.cache
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\tp2_Victor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\tp2_Victor.AssemblyInfoInputs.cache
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\tp2_Victor.AssemblyInfo.cs
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\tp2_Victor.csproj.CoreCompileInputs.cache
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\tp2_Victor.dll
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\refint\tp2_Victor.dll
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\tp2_Victor.pdb
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\tp2_Victor.genruntimeconfig.cache
+C:\Users\yeboa\source\repos\tp2_Victor\tp2_Victor\obj\Debug\net6.0\ref\tp2_Victor.dll
